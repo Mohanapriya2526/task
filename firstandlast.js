@@ -1,1 +1,0 @@
-const Array = ["apple", "banana", "Orange","grapes"]
